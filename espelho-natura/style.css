@@ -1,0 +1,26 @@
+.imagem{
+    margin-bottom: 30px;
+} 
+h6{
+    font-family:'Times New Roman', Times, serif;
+    color: gray;
+    }
+   
+ h5{
+        font-family:'Times New Roman', Times, serif;
+        color:rgb(0, 0, 0);
+        
+}
+h4{
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            color: black;
+ }
+ p{
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                color: black;
+}
+.header2{
+                    width: 1932px;
+                    height: 300px;
+                    background-color:black;
+}

@@ -1,0 +1,68 @@
+nav {
+    background-color: rgb(185, 22, 22);
+}
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+h1{
+    font-size: xx-large;  
+}
+
+h2{
+    font-size: larger;
+    color: rgb(185, 22, 22);
+}
+h3{
+    font-size: medium;
+    color: rgb(201, 33, 33) ;
+}
+h6{
+    color: #fff;
+    font-size:xx-large
+}
+img{
+    border-radius:15px ;
+}
+footer{
+    background-color: rgb(185, 22, 22);
+    color: white;
+   
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.calculator {
+    flex: 1;
+    margin-right: 20px;
+    background-color:rgb(185, 22, 22);
+    padding: 30px;
+    border-radius: 25px;
+}
+
+.task-list-container {
+    flex: 1;
+}
+
+.add-task {
+    margin-top: 20px;
+}
+
+.add-task input {
+    margin-right: 10px;
+}
+
+.add-button {
+    width: 70px;
+    padding: 10px;
+    background-color: rgb(185, 22, 22);
+    border: none;
+    border-radius: 0 5px 5px 0;
+    color: #fff;
+    cursor: pointer;
+    font-size: 13px;
+}
+
